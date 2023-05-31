@@ -1,0 +1,8 @@
+du_out.mp4
+timestamps.csv
+captions.csv
+generate file names automatically: yes
+images.csv
+Cross
+Default timestamp duration? yes
+4
